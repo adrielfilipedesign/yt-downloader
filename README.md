@@ -1,4 +1,3 @@
-```markdown
 # yt-downloader – Download and Convert YouTube Videos to MP4 🎥➡️📦
 
 **yt-downloader** is a simple Python tool that allows you to download YouTube videos and automatically convert them to MP4 format if necessary. It uses `yt-dlp` for downloading and `ffmpeg` for efficient video conversion.
@@ -67,5 +66,3 @@
 Paste the YouTube video URL: https://www.youtube.com/watch?v=example
 Conversion completed: example_video.mp4
 ```
-
----
